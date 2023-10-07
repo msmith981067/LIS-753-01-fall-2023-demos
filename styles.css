@@ -36,27 +36,16 @@ h1 {
     padding-bottom: 24px;
   }
  
-  a:link {
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
+  a {
+    font-weight: bold;
+    color: solid green;
   }
-  
-  a:visited {
-    color: pink;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: red;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-  a:active {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: underline;
-  }
+ 
+  ul li a {
+  text-decoration: none;
+ }
+
+ ul li a: hover{
+  text-decoration: underline;
+ }
   
