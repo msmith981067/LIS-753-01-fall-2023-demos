@@ -36,7 +36,7 @@ h1 {
     padding-bottom: 24px;
   }
  
-  a {
+  a link{
     font-weight: bold;
     color: solid green;
   }
