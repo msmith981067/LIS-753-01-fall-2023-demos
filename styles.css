@@ -35,13 +35,16 @@ h1 {
     padding: 12px;
     padding-bottom: 24px;
   }
+ 
   a {
     font-weight: bold;
     color: solid green;
   }
+  
   ul li a {
     text-decoration: none;
   }
+  
   ul li a {
     text-decoration: underline;
   }
