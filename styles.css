@@ -37,7 +37,7 @@ h1 {
   }
   a {
     font=weight: bold;
-    color: blue;
+    color: solid green;
   }
   ul li a {
     text-decoration: none;
