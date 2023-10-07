@@ -37,17 +37,27 @@ h1 {
   }
  
   <style>
-     a:link {
-     color: green;
-     background-color: transparent;
-     text-decoration: none;
-}
-
-  
-  ul li a : {
+  a:link {
+    color: green;
+    background-color: transparent;
     text-decoration: none;
   }
   
-  ul li a : {
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
     text-decoration: underline;
   }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  </style>
