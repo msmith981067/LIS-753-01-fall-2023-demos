@@ -1,0 +1,37 @@
+h1 {
+    color: #16c3d1;
+    font-family: Lucida Console;
+    font-size: 72px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: .125em;
+  }
+
+  p {
+    line-height: 1.25;
+    margin-bottom: 1.25em;
+  }
+
+  body {
+    background-color: #c2fbfa;
+    font-family: Lucida Console;
+  }
+
+  figure img {
+    max-width: 100%;
+    height: auto:
+    margin-bottom: 30px;
+  }
+ 
+  p img{
+    float: right;
+    max-width: 60%;
+    margin-left: 20px;
+    margin-bottom: 32px;
+  }
+
+  figure{
+    border: 3px solid black;
+    padding: 12px;
+    padding-bottom: 24px;
+  }
