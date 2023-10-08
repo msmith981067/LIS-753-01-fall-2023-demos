@@ -35,32 +35,5 @@ h1 {
     padding: 12px;
     padding-bottom: 24px;
   }
-  nav ul{
-    display: flex;
-    justify-content: center;
-    list-style: none;
-    padding-left: 0;
-    border: 1px solid MediumVioletRed;
-  }
-  nav ul li a {
-    background-color: PaleVioletRed;
-    color: #ffffff;
-    text-decoration: none;
-    padding: 8px;
-    border-bottom: 1px solid MediumViolerRed;
-    display: block;
-  }
- 
-  a {
-    font-weight: bold;
-    color: solid green;
-  }
- 
-  ul li a {
-  text-decoration: none;
-  } 
 
- ul li a:hover {
-  text-decoration: underline;
-  }
   
