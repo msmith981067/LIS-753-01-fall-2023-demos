@@ -41,10 +41,10 @@ h1 {
     color: dark purple;
   }
 
-  ul li a {
+  url li a {
     text-decoration: none;
   }
 
-  ul li a: hover {
+  url li a: hover {
     text-decoration: underline;
   }
