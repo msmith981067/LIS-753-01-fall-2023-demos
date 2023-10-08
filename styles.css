@@ -36,3 +36,16 @@ h1 {
     padding-bottom: 24px;
   }
   
+
+  a {
+    font-weight: bold;
+    color: dark purple;
+  }
+  
+  ul li a {
+    text decoration: none;
+  }
+
+  ul li a: hover {
+    text-decoration: underline;
+  }
