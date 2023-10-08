@@ -44,12 +44,9 @@ h1 {
     padding-left: 0;
   }
   
-  nav ul li {
   
-  }
-  
-  nav ul li a {
-    color: MediumVioletRed;
+  ul li a {
+    color: rgb(85, 13, 220);
     text-decoration: none;
     padding: 12px;
     display: block;
@@ -60,13 +57,13 @@ h1 {
   }
   
   header nav ul li a:hover {
-    border-bottom: 3px solid MediumVioletRed;
+    border-bottom: 3px solid rgb(116, 9, 230);
     padding-bottom: 9px;
   }
   
   header nav ul {
-    border-top: 1px solid MediumVioletRed;
-    border-bottom: 1px solid MediumVioletRed;
+    border-top: 1px solid rgb(110, 6, 228);
+    border-bottom: 1px solid rgb(93, 8, 221);
   }
   
   footer nav {
