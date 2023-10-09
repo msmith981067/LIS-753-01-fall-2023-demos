@@ -21,7 +21,7 @@ hi#article-title {
   }
 
   figure img {
-    max-width: 120%;
+    max-width: 100%;
     height: auto;
     margin-bottom: 12px;
   }
@@ -53,7 +53,7 @@ hi#article-title {
  
   p img{
     float: right;
-    max-width: 60%;
+    max-width: 40%;
     margin-left: 20px;
     margin-bottom: 32px;
   }
