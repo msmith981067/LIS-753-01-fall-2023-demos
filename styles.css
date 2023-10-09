@@ -25,6 +25,15 @@ hi#article-title {
     height: auto;
     margin-bottom: 12px;
   }
+
+  figure.main-image {
+    background: PaleVioletRed;
+    border: MediumVioletRed;
+    color: #ffffff;
+
+  }
+
+  figure.section-image {}
  
   p img{
     float: right;
