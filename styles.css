@@ -28,12 +28,18 @@ hi#article-title {
 
   figure.main-image {
     background: PaleVioletRed;
-    border: MediumVioletRed;
+    border-color: MediumVioletRed;
     color: #ffffff;
 
   }
 
-  figure.section-image {}
+  figure.section-image {
+    float: right;
+    max-width: 60%;
+    margin-left: 20px;
+    margin-bottom: 32px;
+    max-width: 320px;
+  }
  
   p img{
     float: right;
