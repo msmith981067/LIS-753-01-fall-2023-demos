@@ -1,1 +1,8 @@
-
+body {
+    color: #6C0CEB ;
+    font-family: "Audiowide", sans-serif;
+    font-size: 45px;
+    text-align: center;
+    font-weight: 400;
+    margin: 0;
+  }
