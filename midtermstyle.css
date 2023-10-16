@@ -1,8 +1,17 @@
 body {
     color: #6C0CEB ;
-    font-family: "Audiowide", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 45px;
     text-align: center;
     font-weight: 400;
     margin: 0;
+    background-color: #E6D7F9 ;
   }
+  
+  p {
+    border: solid;
+    width: 100%;
+    max-width: 850px;
+    margin: 0 auto;
+  }
+  
