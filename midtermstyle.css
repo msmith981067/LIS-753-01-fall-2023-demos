@@ -4,6 +4,7 @@ body {
     font-weight: 600;
     line-height: 2.0;
     letter-spacing: 5px;
+    background-color: #ece4fb;
     margin: 0.5;
      }
 #site-title {
@@ -12,4 +13,4 @@ body {
     text-align: center;
     font-weight: 600;
     line-height: 2.0;
-    letter-spacing: 5px;
+    letter-spacing: 5px
