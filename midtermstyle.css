@@ -1,6 +1,15 @@
 body {
-    font-family: Georgia, serif;
-    color: #dd09f7;
-    font-weight: 400;
-    margin: 0;
+    font-family: Tahoma, sans-serif;
+    color: #4710ae;
+    font-weight: 600;
+    line-height: 2.0;
+    letter-spacing: 5px;
+    margin: 0.5;
      }
+#site-title {
+    font-family: Tahoma, sans-serif;
+    color: #dd09f7;
+    text-align: center;
+    font-weight: 600;
+    line-height: 2.0;
+    letter-spacing: 5px;
