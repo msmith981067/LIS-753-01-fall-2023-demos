@@ -7,11 +7,11 @@ body {
     background-color: #ece4fb;
     margin: 0.5;
      }
-#site-title {
-    font-family: Tahoma, sans-serif;
-    color: #dd09f7;
-    text-align: center;
-    font-weight: 600;
-    line-height: 2.0;
-    letter-spacing: 5px
-}
+     h1#site-title {
+        font-size: 72px;
+        letter-spacing: -3px;
+        margin-top: 0;
+        margin-bottom: .125em;
+        text-align: center;
+        font-weight: 800;
+      }
