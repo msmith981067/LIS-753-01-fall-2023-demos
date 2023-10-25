@@ -1,6 +1,5 @@
 h1 {
   color: #7e0fe7;
-	font-size: 47px;
   text-align:center;
   font-family: Georgia;
   font-size: 60px;
@@ -14,7 +13,7 @@ img {
 a {
   font-family: Georgia:
   text-align: center;
-  color: #240e7d;
+  color: #7e0fe7;
   font-size: 40px
 }
 id {
@@ -40,6 +39,6 @@ body {
   text-align: center;
 }
 p {
-  color: #8713dc;
-  size: 40px
+  color: #211827;
+  font: bold 30px;
 }
