@@ -1,5 +1,5 @@
 h1 {
-  color: #1410de;
+  color: #7e0fe7;
 	font-size: 47px;
   text-align:center;
   font-family: Georgia;
@@ -14,13 +14,14 @@ img {
 a {
   font-family: Georgia:
   text-align: center;
-  color:#1815a6;
-  font-size: 35px
+  color: #7e0fe7;
+  font-size: 40px
 }
 id {
   font-family: Georgia:
   color: #1815a6;
   font-size: 30px;
+  font: bold;
 }
 body {
   background: #cdcdfb;
@@ -28,8 +29,8 @@ body {
 .button {
   font: bold 15px Georgia;
   text-decoration: none;
-  background-color:#1228e9;
-  color: #ebecf9;
+  background-color:  #7e0fe7;
+  color: #7af209;
   padding: 4px 8px 4px 8px;
   border-top: 2px solid #CCCCCC;
   border-right: 2px solid #333333;
@@ -40,6 +41,6 @@ body {
   text-align: center;
 }
 p {
-  color: #2a7e0f;
-  text-size: 25px
+  color:  #7e0fe7;
+  size: 30px
 }
