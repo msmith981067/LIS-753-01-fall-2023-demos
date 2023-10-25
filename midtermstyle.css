@@ -3,7 +3,7 @@ h1 {
 	font-size: 47px;
   text-align:center;
   font-family: Georgia;
-  font-size: 40px;
+  font-size: 60px;
 }
 
 img {
@@ -14,20 +14,19 @@ img {
 a {
   font-family: Georgia:
   text-align: center;
-  color: #7e0fe7;
+  color: #240e7d;
   font-size: 40px
 }
 id {
   font-family: Georgia:
-  color: #1815a6;
+  color: #ea3710;
   font-size: 30px;
-  font: bold;
-}
+ }
 body {
   background: #cdcdfb;
 }
 .button {
-  font: bold 15px Georgia;
+  font: bold 20px Georgia;
   text-decoration: none;
   background-color:  #7e0fe7;
   color: #7af209;
@@ -41,6 +40,6 @@ body {
   text-align: center;
 }
 p {
-  color: solid rgb(156, 6, 243);
+  color: #8713dc;
   size: 40px
 }
