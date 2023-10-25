@@ -45,3 +45,9 @@ p {
   color: #420968;
   font-size: 30px;
 }
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: #7e0fe7;
+  color: #f4edf9;
+}
