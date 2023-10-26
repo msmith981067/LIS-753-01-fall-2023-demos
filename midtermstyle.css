@@ -27,15 +27,13 @@ id {
   font-weight: bold;
   font-size: 20px;
  }
- center {
-  text-align: center;
- }
 body {
   background: #cdcdfb;
 }
 .button {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
+  text-align: center;
   text-decoration: none;
   background-color: #7e0fe7;
   color: #7af209;
