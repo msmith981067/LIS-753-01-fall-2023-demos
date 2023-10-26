@@ -27,6 +27,9 @@ id {
   font-weight: bold;
   font-size: 20px;
  }
+ div {
+  text-align: center
+ }
 body {
   background: #cdcdfb;
 }
