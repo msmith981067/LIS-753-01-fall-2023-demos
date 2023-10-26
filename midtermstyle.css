@@ -1,8 +1,9 @@
 h1 {
   color: #7e0fe7;
-  text-align:center;
-  font-family: Georgia;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
   font-size: 50px;
+  font-weight: bold;
 }
 
 img {
@@ -14,23 +15,26 @@ img {
   max-width: 400;
 }
 a {
-  font-family: Georgia;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
+  font-weight: bold;
   color: #7e0fe7;
-  font-size: 40px
+  font-size: 40px;
 }
 id {
-  font-family: Georgia;
+  font-family: 'Roboto', sans-serif;
   color: #ea3710;
+  font-weight: bold;
   font-size: 30px;
  }
 body {
   background: #cdcdfb;
 }
 .button {
-  font: bold 20px Georgia;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
   text-decoration: none;
-  background-color:  #7e0fe7;
+  background-color: #7e0fe7;
   color: #7af209;
   padding: 4px 8px 4px 8px;
   border-top: 2px solid #CCCCCC;
