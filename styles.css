@@ -54,8 +54,6 @@ figure {
   padding-bottom: 24px;
 }
 
-
-
 figure.main-image {
   background: PaleVioletRed;
   border-color: MediumVioletRed;
@@ -63,11 +61,14 @@ figure.main-image {
   margin-bottom: 32px;
 }
 
-figure.section-image {
-  max-width: 320px;
-  float: right;
-  margin: -20px -62px 32px 20px;
+@media all and (min-width: 768px) {
+  figure.section-image {
+    max-width: 320px;
+    float: right;
+    margin: -20px -62px 32px 20px;
+  }
 }
+
 
 p img {
   float: right;
