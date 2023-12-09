@@ -1,5 +1,5 @@
 h1 {
-  color: #7e0fe7;
+  color: #74f28f;
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-size: 50px;
@@ -18,18 +18,18 @@ a {
   font-family: 'Roboto', sans-serif;
   text-align: center;
   font-weight: bold;
-  color: #7e0fe7;
+  color: #108730;
   font-size: 30px;
 }
 body {
-  background: #cdcdfb;
+  background: #b8f6c9;
 }
 .button {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
   text-decoration: none;
-  background-color: #7e0fe7;
-  color: #7af209;
+  background-color: #74f28f;
+  color: #108730;
   padding: 4px 8px 4px 8px;
   border-top: 4px solid #CCCCCC;
   border-right: 4px solid #333333;
@@ -40,7 +40,7 @@ div {
   text-align: center;
 }
 p {
-  color: #420968;
+  color: #096837;
   font-size: 30px;
   margin-top: 50px;
   margin-bottom: 50px;
@@ -50,7 +50,7 @@ p {
 footer {
   text-align: center;
   padding: 5px;
-  background-color: #7e0fe7;
-  color: #f4edf9;
+  background-color: #74f28f;
+  color: #85eea1;
 }
 
