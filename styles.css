@@ -42,6 +42,10 @@ p {
   line-height: 1.25;
   margin-bottom: 1.25em;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 figure {
   margin: 0;
@@ -51,8 +55,6 @@ figure {
 }
 
 figure img {
-  max-width: 100%;
-  height: auto;
   margin-bottom: 12px;
 }
 
@@ -63,10 +65,12 @@ figure.main-image {
   margin-bottom: 32px;
 }
 
-figure.section-image {
-  max-width: 320px;
-  float: right;
-  margin: -20px -62px 32px 20px;
+@media all and (min-width: 768px) {
+  figure.section-image {
+    max-width: 320px;
+    float: right;
+    margin: -20px -62px 32px 20px;
+  }
 }
 
 p img {
@@ -77,13 +81,17 @@ p img {
 }
 
 nav ul {
-  display: flex;
-  justify-content: center;
-  gap: 30px;
-  list-style: none;
-  padding-left: 0;
+    list-style: none;
+    padding-left: 0;
 }
 
+@media all and (min-width: 376px) {
+  nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+}
 nav ul li {
 
 }
