@@ -11,10 +11,18 @@ background-color: #0af75e;
 font-family: Verdana;
 font-size: 20px;
 }
-url li a{
+a {
 font-family: Verdana;
-font-size: 20px;
-margin-left: 20;
-bold: color: #f04a08;
+font-size: 15px;
+text-color: #14730e;
 }
-
+h2 {
+  font-family: Verdana;
+  font-size: 30px;
+  color: #ed2c0a;
+}
+h3 {
+  font-family: Verdana;
+  font-size: 30px;
+  color: #ed2c0a;
+}
