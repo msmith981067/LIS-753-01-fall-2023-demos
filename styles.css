@@ -2,7 +2,6 @@ body {
   font-family: 'Inter', sans-serif;
   font-weight: 400;
   margin: 0;
-   background-color:  #9df1a4;
 }
 
 .container {
@@ -43,10 +42,6 @@ p {
   line-height: 1.25;
   margin-bottom: 1.25em;
 }
-img {
-  max-width: 100%;
-  height: auto;
-}
 
 figure {
   margin: 0;
@@ -56,6 +51,8 @@ figure {
 }
 
 figure img {
+  max-width: 100%;
+  height: auto;
   margin-bottom: 12px;
 }
 
@@ -66,12 +63,10 @@ figure.main-image {
   margin-bottom: 32px;
 }
 
-@media all and (min-width: 768px) {
-  figure.section-image {
-    max-width: 320px;
-    float: right;
-    margin: -20px -62px 32px 20px;
-  }
+figure.section-image {
+  max-width: 320px;
+  float: right;
+  margin: -20px -62px 32px 20px;
 }
 
 p img {
@@ -82,23 +77,19 @@ p img {
 }
 
 nav ul {
-    list-style: none;
-    padding-left: 0;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  list-style: none;
+  padding-left: 0;
 }
 
-@media all and (min-width: 376px) {
-  nav ul {
-    display: flex;
-    justify-content: center;
-    gap: 30px;
-  }
-}
 nav ul li {
 
 }
 
 nav ul li a {
-  color: rgb(228, 26, 26);
+  color: MediumVioletRed;
   text-decoration: none;
   padding: 12px;
   display: block;
@@ -109,13 +100,13 @@ nav ul li a {
 }
 
 header nav ul li a:hover {
-  border-bottom: 3px solid rgb(228, 26, 26);
+  border-bottom: 3px solid MediumVioletRed;
   padding-bottom: 9px;
 }
 
 header nav ul {
-  border-top: 1px solid rgb(228, 26, 26);
-  border-bottom: 1px solid rgb(228, 26, 26);
+  border-top: 1px solid MediumVioletRed;
+  border-bottom: 1px solid MediumVioletRed;
 }
 
 footer nav {
@@ -136,44 +127,4 @@ footer#page-footer {
   text-align: center;
   background-color: #A1116B;
   color: #ffffff;
-}
-body {
-  font-family: 'Inter', sans-serif;
-  font-weight: 400;
-  margin: 0;
-}
-
-body.dark-mode {
-  background: #07f32e;
-  color: #ffffff;
-}
-
-body.dark-mode button {
-  background-color: #ffffff;
-}
-
-.container {
-  padding: 12px 0;
-  width: 96%;
-  max-width: 600px;
-  margin: 0 auto;
-}
-
-#message {
-  background: #E9FFE4;
-  border: 1px solid #178201;
-  padding: 20px 40px;
-  margin: 12px 0;
-  border-radius: 4px;
-  opacity: 1;
-  transition: opacity .2s ease;
-}
-
-#message.dismissed {
-  opacity: 0;
-  height: 0;
-}
-
-#message button {
-  float: right;
 }
