@@ -14,10 +14,12 @@ font-size: 20px;
 url li a{
 font-family: Verdana;
 font-size: 20px;
+margin-left: 20;
 bold: color: #f04a08;
 }
 h2 {
 font-family: Verdana;
+margin-left: 20;
 font-size: 30px;
 color: #1f23e0;
 }
