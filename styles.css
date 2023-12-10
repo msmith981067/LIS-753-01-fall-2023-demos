@@ -2,7 +2,7 @@ body {
   font-family: 'Inter', sans-serif;
   font-weight: 400;
   margin: 0;
-   background-color:  #44ddeb;
+   background-color:  #9df1a4;
 }
 
 .container {
@@ -98,7 +98,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: MediumVioletRed;
+  color: rgb(228, 26, 26);
   text-decoration: none;
   padding: 12px;
   display: block;
@@ -109,13 +109,13 @@ nav ul li a {
 }
 
 header nav ul li a:hover {
-  border-bottom: 3px solid MediumVioletRed;
+  border-bottom: 3px solid rgb(228, 26, 26);
   padding-bottom: 9px;
 }
 
 header nav ul {
-  border-top: 1px solid MediumVioletRed;
-  border-bottom: 1px solid MediumVioletRed;
+  border-top: 1px solid rgb(228, 26, 26);
+  border-bottom: 1px solid rgb(228, 26, 26);
 }
 
 footer nav {
@@ -144,7 +144,7 @@ body {
 }
 
 body.dark-mode {
-  background: #010101;
+  background: #07f32e;
   color: #ffffff;
 }
 
