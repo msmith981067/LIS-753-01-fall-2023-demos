@@ -1,6 +1,6 @@
 h1 {
-  color: #ed2c0a;
-  font-family: Verdana;
+  color: #fb1005;
+  font-family: Georgia;
   font-size: 50px;
   text-align: center;
   margin-top: 10;
@@ -10,17 +10,19 @@ body{
 background-color: #0af75e;
 }
 a {
-font-family: Verdana;
+font-family: Georgia;
+font-weight: 800;
 font-size: 15px;
-text-color: #14730e;
+color: #9c14dd;
 }
 h2 {
-  font-family: Verdana;
+  font-family: Georgia;
   font-size: 30px;
-  color: #ed2c0a;
+  color: #fb1005;
 }
 h3 {
-  font-family: Verdana;
+  font-family: Georgia;
   font-size: 30px;
-  color: #ed2c0a;
+  color: #fb1005;
 }
+
