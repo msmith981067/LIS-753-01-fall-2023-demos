@@ -1,5 +1,5 @@
 h1 {
-  color: #fb1005;
+  color: #f1ecec;
   font-family: Georgia;
   font-size: 50px;
   text-align: center;
@@ -9,22 +9,22 @@ h1 {
 body{
 background-color: black;
 font-size: 20px;
-color: green;
+color: rgb(229, 245, 229);
 }
 a {
 font-family: Georgia;
 font-weight: 800;
 font-size: 15px;
-color: #9c14dd;
+color: #f2e5f8;
 }
 h2 {
   font-family: Georgia;
   font-size: 30px;
-  color: #fb1005;
+  color: #fbe8e7;
 }
 h3 {
   font-family: Georgia;
   font-size: 30px;
-  color: #fb1005;
+  color: #f7dddb;
 }
 
