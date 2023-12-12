@@ -28,5 +28,6 @@ h3 {
   color: #f7dddb;
 }
 img {
-  border: 10px solid #08f27dee
+  border: 10px solid #08f213;
+  border-radius: 30px;
 }
