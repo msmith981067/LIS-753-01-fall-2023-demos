@@ -27,4 +27,6 @@ h3 {
   font-size: 30px;
   color: #f7dddb;
 }
-
+img {
+  border: 5px solid #08f213;
+}
