@@ -1,7 +1,7 @@
 h1 {
   color: #ffffff;
   font-family: Georgia;
-  font-size: 60px;
+  font-size: 90px;
   text-align: center;
   margin-top: 10;
   margin-bottom: .125em;
@@ -22,19 +22,17 @@ color: #18f54f;
 h2 {
   color: #ffffff;
   font-family: Georgia;
-  font-size: 60px;
+  font-size: 80px;
   text-align: center;
-  margin-top: 10;
-  margin-bottom: .125em;
   text-shadow: 10px 10px 10px #18f54f;
 }
 h3 {
   color: #ffffff;
   font-family: Georgia;
-  font-size: 60px;
+  font-size: 80px;
   text-align: center;
-  margin-top: 10;
-  margin-bottom: .125em;
+  margin-top: 0.05;
+  margin-bottom:.05em;
   text-shadow: 10px 10px 10px #18f54f;
 }
 img {
@@ -69,4 +67,5 @@ color: #18f54f;
 #footer {
     height: 30px;
     position: absolute;
-  
+    color: #18f54f;
+}
