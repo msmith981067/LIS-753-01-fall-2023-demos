@@ -41,9 +41,6 @@ img {
   margin-right: auto;
   width: 20%;
 }
-src{
-  align: center;
-}
 img:hover {
   transform: scaleX(-1);
 }
